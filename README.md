@@ -8,6 +8,10 @@ C Bhavani
 
 ## Team Members
 - Bhavani (Team Lead)
+- Usha Sri
+- Dinakar Akula
+- Nagam Naga Swarna
+- A Divet Kumar
 
 ## Objective
 To analyze housing market data using Tableau and create interactive dashboards to identify trends in house prices and features.
