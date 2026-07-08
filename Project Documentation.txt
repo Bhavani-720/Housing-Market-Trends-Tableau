@@ -1,0 +1,73 @@
+Project Documentation
+
+Project Title
+
+Visualizing Housing Market Trends: An Analysis of Sale Prices and Features using Tableau
+
+1. Problem Statement
+
+The objective of this project is to analyze housing market data and understand how different features such as sale price, number of bedrooms, bathrooms, floors, basement area, and renovation status affect house prices. Tableau is used to create interactive dashboards and stories for better visualization.
+
+2. Data Collection
+
+Collected the Housing Market dataset.
+Imported the dataset into Tableau.
+Verified the data and identified the available columns.
+
+
+3. Data Preparation
+
+Removed duplicate records.
+Handled missing values.
+Corrected data types.
+Cleaned unnecessary columns.
+Prepared the dataset for visualization.
+
+4. Data Visualization
+
+Created the following visualizations:
+
+Total number of houses.
+Sale Price Distribution.
+House Age Distribution.
+Comparison of Bathrooms, Bedrooms, and Floors.
+Renovation Status Analysis.
+
+5. Dashboard Development
+
+Designed an interactive Tableau dashboard containing:
+
+KPI Summary
+Histogram
+Pie Chart
+Bar Chart
+Filters for better analysis
+
+6. Story Creation
+
+Created a Tableau Story that explains the project findings step by step and highlights important insights from the dashboard.
+
+7. Web Integration
+
+Published the Tableau Dashboard and Story on Tableau Public and integrated them into a Flask web application using the Dewi Bootstrap template.
+
+8. Results
+
+The project helps users understand:
+
+Distribution of house sale prices.
+Relationship between house features and prices.
+Renovation impact on house value.
+Overall housing market trends.
+
+9. Conclusion
+
+This project successfully analyzed housing market data using Tableau. Interactive dashboards and stories provide meaningful insights and help users make better decisions based on housing data.
+
+Tools Used:
+
+Tableau Public
+Python Flask
+HTML
+CSS
+Visual Studio Code
