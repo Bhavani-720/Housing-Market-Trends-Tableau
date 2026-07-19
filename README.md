@@ -124,10 +124,3 @@ This project is developed for academic and educational purposes.
 
 ---
 
-<div align="center">
-
-### ⭐ If you like this project, don't forget to give it a Star!
-
-Made with ❤️ using Tableau
-
-</div>
