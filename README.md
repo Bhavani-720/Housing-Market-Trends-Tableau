@@ -141,12 +141,7 @@ This project is developed for academic and educational purposes.
 
 ---
 
-## 📊 Tableau Dashboard
 
-This repository contains interactive Tableau dashboards and storyboards for analyzing housing market trends using Tableau.
-
-
-<div align="center">
 
 ## ⭐ Thank You for Visiting!
 
