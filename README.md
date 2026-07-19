@@ -15,11 +15,18 @@ Analyze housing market trends, property prices, and real estate insights through
 
 ---
 
+# 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 📂 Source Code | https://github.com/Bhavani-720/Housing-Market-Trends-Tableau |
+| 🎥 Demo Video | https://drive.google.com/file/d/123uLUClbY2M50RS-3aAWCrEAL5veuUZS/view?usp=drive_link |
+
+---
+
 # 📖 Project Overview
 
-Housing Market Trends using Tableau is a comprehensive data visualization project that analyzes real estate data to uncover meaningful insights into housing prices, property characteristics, and market behavior.
-
-The project enables users to explore housing trends using interactive Tableau dashboards and storyboards, helping buyers, sellers, students, and analysts understand the housing market more effectively.
+Housing Market Trends using Tableau is a data visualization project that explores real estate data through interactive dashboards and storyboards. It helps users understand housing prices, property characteristics, and market trends using Tableau.
 
 ---
 
@@ -29,7 +36,7 @@ The project enables users to explore housing trends using interactive Tableau da
 - Compare prices across different locations.
 - Study bedrooms and bathrooms distribution.
 - Explore property characteristics.
-- Build interactive dashboards using Tableau.
+- Build interactive Tableau dashboards.
 - Present insights using storyboards.
 
 ---
@@ -53,6 +60,7 @@ Housing-Market-Trends-Tableau
 ├── Storyboard
 ├── Documentation
 ├── Project Presentation
+├── Demo Video
 └── README.md
 ```
 
@@ -72,13 +80,13 @@ The dashboard provides interactive visualizations for:
 
 # 📖 Storyboard
 
-The storyboard explains the complete project workflow and analytical findings through multiple interactive visualization pages.
+The storyboard explains the complete workflow and project findings through interactive visualization pages.
 
 ---
 
 # 📁 Dataset
 
-The dataset contains:
+The dataset contains the following attributes:
 
 - House Price
 - Bedrooms
@@ -92,17 +100,17 @@ The dataset contains:
 
 # 📈 Key Insights
 
-- Property location has a significant impact on house prices.
-- Houses with larger living areas generally have higher values.
-- Number of bedrooms and bathrooms influences pricing.
-- Interactive dashboards improve data exploration and decision-making.
+- Property location significantly impacts house prices.
+- Larger houses generally have higher market values.
+- Bedrooms and bathrooms influence property pricing.
+- Interactive dashboards simplify data analysis and decision-making.
 
 ---
 
 # 🚀 Future Enhancements
 
 - Real-time housing market data integration
-- Predictive price analysis using Machine Learning
+- Machine Learning-based price prediction
 - Mobile-friendly dashboards
 - AI-powered housing recommendations
 
@@ -110,7 +118,7 @@ The dataset contains:
 
 # 👥 Team Members
 
-- Bhavani(Team Lead)
+- **Bhavani** (Team Lead)
 - Dinakar
 - Divet
 - Naga Swarna
@@ -120,40 +128,24 @@ The dataset contains:
 
 # 📜 License
 
-This project is developed for academic and educational purposes.
-
----
----
-
-# 🔗 Project Links
-
-## 📂 Source Code
-
-**GitHub Repository:**  
-🔗 https://github.com/Bhavani-720/Housing-Market-Trends-Tableau
+This project was developed for academic and educational purposes.
 
 ---
 
-## 🎥 Demo Video
+# 📞 Contact
 
-**Project Demonstration:**  
-▶️ https://drive.google.com/file/d/123uLUClbY2M50RS-3aAWCrEAL5veuUZS/view?usp=drive_link
+**GitHub:** https://github.com/Bhavani-720
+
+**Repository:** https://github.com/Bhavani-720/Housing-Market-Trends-Tableau
 
 ---
 
-
+<div align="center">
 
 ## ⭐ Thank You for Visiting!
 
-If you found this project useful, please consider giving this repository a ⭐.
+If you found this project useful, please consider giving it a ⭐ Star.
 
-### 📂 Source Code
-🔗 https://github.com/Bhavani-720/Housing-Market-Trends-Tableau
-
-### 🎥 Demo Video
-▶️ https://drive.google.com/file/d/123uLUClbY2M50RS-3aAWCrEAL5veuUZS/view?usp=drive_link
-
-Made with ❤️ by **Bhavani** using **Tableau**
+**Made with ❤️ by Bhavani using Tableau**
 
 </div>
-
