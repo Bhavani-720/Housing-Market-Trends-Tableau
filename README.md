@@ -123,4 +123,60 @@ The dataset contains:
 This project is developed for academic and educational purposes.
 
 ---
+---
+
+# 🔗 Project Links
+
+## 📂 Source Code
+
+**GitHub Repository:**  
+🔗 https://github.com/Bhavani-720/Housing-Market-Trends-Tableau
+
+---
+
+## 🎥 Demo Video
+
+**Project Demonstration:**  
+▶️ https://drive.google.com/file/d/123uLUClbY2M50RS-3aAWCrEAL5veuUZS/view?usp=drive_link
+
+---
+
+## 📊 Tableau Dashboard
+
+This repository contains interactive Tableau dashboards and storyboards for analyzing housing market trends using Tableau.
+
+---
+
+## 📁 Repository Structure
+
+```text
+🏠 Housing-Market-Trends-Tableau
+│
+├── 📁 Dataset
+├── 📁 Tableau Workbook
+├── 📁 Dashboard
+├── 📁 Storyboard
+├── 📁 Documentation
+├── 📁 Project Presentation
+├── 🎥 Demo Video
+└── 📄 README.md
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thank You for Visiting!
+
+If you found this project useful, please consider giving this repository a ⭐.
+
+### 📂 Source Code
+🔗 https://github.com/Bhavani-720/Housing-Market-Trends-Tableau
+
+### 🎥 Demo Video
+▶️ https://drive.google.com/file/d/123uLUClbY2M50RS-3aAWCrEAL5veuUZS/view?usp=drive_link
+
+Made with ❤️ by **Bhavani** using **Tableau**
+
+</div>
 
