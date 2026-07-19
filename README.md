@@ -110,7 +110,7 @@ The dataset contains:
 
 # 👥 Team Members
 
-- Bhavani
+- Bhavani(Team Lead)
 - Dinakar
 - Divet
 - Naga Swarna
